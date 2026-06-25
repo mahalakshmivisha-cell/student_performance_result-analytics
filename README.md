@@ -16,8 +16,7 @@ The dataset is stored in CSV format and contains information related to student 
 Example attributes may include:
 - Student ID
 - Name
-- Gender
-- Attendance
+- Department
 - Internal Marks
 - External Marks
 - Total Marks
