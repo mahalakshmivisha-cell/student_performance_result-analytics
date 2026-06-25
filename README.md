@@ -30,7 +30,6 @@ Example attributes may include:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
 ## 📈 Analysis Performed
 ### Data Preprocessing
@@ -48,22 +47,8 @@ Example attributes may include:
 ### Data Visualization
 - Bar Charts
 - Pie Charts
-- Histograms
-- Box Plots
-- Heatmaps
+- line Charts
 
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/student-performance-analysis.git
-```
-
-2. Open the notebook in Google Colab.
-
-3. Upload the CSV dataset.
-
-4. Run all cells to generate analysis and visualizations.
 
 ## 📊 Sample Insights
 - Students with higher attendance tend to achieve better scores.
@@ -78,13 +63,7 @@ Student-Performance-Analysis/
 ├── dataset.csv
 ├── Student_Performance_Analysis.ipynb
 ├── README.md
-└── images/
-    ├── performance_chart.png
-    └── result_analysis.png
-```
 
-## 📷 Output Screenshots
-Add screenshots of your visualizations here.
 
 ## 🔮 Future Enhancements
 - Machine Learning based performance prediction.
